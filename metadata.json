@@ -1,0 +1,6 @@
+{
+  "name": "CardDrop - VCard QR & Contact Scanner",
+  "description": "Mobile Android app for QR code display from imported VCard (.vcf) files, live QR camera scanning for digital business cards, and local contact management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
